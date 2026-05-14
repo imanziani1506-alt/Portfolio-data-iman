@@ -125,7 +125,7 @@ Construire des indicateurs fiables permettant d’améliorer l’expérience cli
 - 📄 [Expression des besoins](Expression_des_besoins.pdf)
 - 📋 [Liste des questions](Liste+des+questions+(1).pdf)
 - 🗂️ [Dictionnaire de données](Dictionnaire_données_BestMarket2.xlsx)
-- 💻 [Requêtes SQL](lien_pdf)
-- 🧠 [Script SQL complet](lien_sql)
+- 💻 [Requêtes SQL](Requêtes.pdf)
+- 🧠 [Script SQL complet](CustomerDataFeedback+(3).sql)
 
 👉 Ce projet est actuellement en cours de finalisation.
