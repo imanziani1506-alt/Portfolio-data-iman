@@ -90,9 +90,11 @@ Suite à une non-conformité RGPD, une entreprise doit retravailler ses données
 Ce projet montre l’importance d’intégrer la protection des données dès la phase de traitement tout en permettant leur utilisation à des fins analytiques.
 
 📎 **Fichiers du projet :**
-- 📄 [Rapport complet](lien)
-- 📊 [Jeu de données traité](lien)
-- 📑 [Recommandations RGPD](lien)
+- 📄 [Rapport complet](Bouskour_Iman_3_rapport_042026.pdf)
+- 📊 [Jeu de données traité](Bouskour_Iman_2_donnees_042026.csv
+)
+- 📑 [Recommandations RGPD](Bouskour_Iman_1_recommandations_042026.pdf
+)
   
 ### 4. Analyse de satisfaction client avec SQL (en cours)
 **Objectif :** Analyser les retours clients  
