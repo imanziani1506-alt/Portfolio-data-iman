@@ -60,12 +60,9 @@ L’utilisation de SQL permet d’exploiter efficacement une base de données et
 
 📎 **Fichiers du projet :**
 
-- 📄 [Document technique](Bouskour_Iman_1_document technique_032026.pdf
-)
-- 💻 [Requêtes SQL](Bouskour_Iman_2_liste_032026.pdf)
-- 📊 [Méthodologie](Bouskour_Iman_3_méthodologie_032026.ppsx
-
-)
+ 📎[Document technique](Bouskour_Iman_1_document technique_032026.pdf)
+📎 [Requêtes SQL](Bouskour_Iman_2_liste_032026.pdf)
+📎 [Méthodologie](Bouskour_Iman_3_méthodologie_032026.ppsx)
   
 ### 4. Analyse de satisfaction client avec SQL (en cours)
 **Objectif :** Analyser les retours clients  
