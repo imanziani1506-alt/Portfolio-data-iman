@@ -98,9 +98,11 @@ Ce projet montre l’importance d’intégrer la protection des données dès la
 - 📄 [Rapport complet](Bouskour_Iman_3_rapport_042026.pdf)
 - 📊 [Jeu de données traité](Bouskour_Iman_2_donnees_042026.csv
 )
-- 📑 [Recommandations RGPD](Bouskour_Iman_1_recommandations_042026.pdf
-)
+- 📑 [Recommandations RGPD](Bouskour_Iman_1_recommandations_042026.pdf)
+
+
   ---
+  
 ### 🔍 Aperçu du projet (en cours)
 
 Ce projet consiste à analyser les retours clients d’une enseigne afin de mesurer la satisfaction client et identifier des axes d’amélioration.
