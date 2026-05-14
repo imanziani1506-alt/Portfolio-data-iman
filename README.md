@@ -22,6 +22,8 @@
 
 **Conclusion :**
 Les performances des joueurs NBA reposent sur plusieurs indicateurs combinés. L’analyse des données permet de mieux comprendre les facteurs de performance globale.
+📎 Fichier du projet : [Voir le projet](Bouskour_Iman_1_rapport_d'analyse_022026.xlsx)
+📎 Fichier du projet : [Voir le projet](Bouskour_Iman_2_Présentation_022026.pptx)
 ---
 
 ### 2. Requêtes SQL sur base de données
