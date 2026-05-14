@@ -1,29 +1,28 @@
 
- Portfolio Data Analyst – Iman Bouskour
-
-Bienvenue sur mon portfolio de projets en data analyse.
-
-## 📊 Projets
+📊 Projets
 
 ### 1. Analyse et visualisation de données avec Excel
-- Création de tableaux croisés dynamiques
-- Analyse d’indicateurs
-- Visualisation des données
+**Objectif :** Analyser des données et identifier des indicateurs clés  
+**Outils :** Excel (TCD, graphiques)  
+**Résultat :** Création de tableaux de bord pour faciliter la prise de décision  
+
+---
 
 ### 2. Requêtes SQL sur base de données
-- Extraction de données
-- Jointures, filtres, agrégations
+**Objectif :** Extraire et analyser des données depuis une base  
+**Outils :** SQL  
+**Résultat :** Identification d’informations pertinentes grâce aux jointures et agrégations  
+
+---
 
 ### 3. Collecte de données conforme RGPD
-- Structuration des données
-- Respect des normes de protection
+**Objectif :** Structurer des données dans le respect des normes  
+**Outils :** Méthodologie RGPD  
+**Résultat :** Données organisées et conformes aux règles de protection  
+
+---
 
 ### 4. Analyse de satisfaction client avec SQL (en cours)
-- Nettoyage et manipulation de données
-- Analyse des retours clients
-
-## 🛠 Outils utilisés
-- SQL
-- Excel
-- Python (en cours)
-- Power BI (en cours)
+**Objectif :** Analyser les retours clients  
+**Outils :** SQL  
+**Résultat :** Identification des axes d’amélioration (en cours)
