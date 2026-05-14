@@ -26,17 +26,40 @@ Les performances des joueurs NBA reposent sur plusieurs indicateurs combinés. L
 📎 [Voir la présentation](Bouskour_Iman_2_Présentation_022026.pptx)
 ---
 
-### 2. Requêtes SQL sur base de données
-**Objectif :** Extraire et analyser des données depuis une base  
+## 2. Analyse de données d’assurance habitation avec SQL
+
+**Objectif :** Analyser les contrats d’assurance habitation afin d’identifier des tendances et des indicateurs clés pour la prise de décision  
+
 **Outils :** SQL  
-**Résultat :** Identification d’informations pertinentes grâce aux jointures et agrégations  
 
----
+**Contexte :**
+Base de données composée de deux tables principales (Contrat et Region) permettant d’analyser les caractéristiques des logements et leur localisation géographique.  
 
-### 3. Collecte de données conforme RGPD
-**Objectif :** Structurer des données dans le respect des normes  
-**Outils :** Méthodologie RGPD  
-**Résultat :** Données organisées et conformes aux règles de protection  
+**Méthodologie :**
+- Création et structuration de la base de données (tables, clés primaires et étrangères)
+- Jointure des tables Contrat et Region
+- Analyse des données avec des requêtes SQL :
+  - Calculs d’indicateurs (moyennes, totaux)
+  - Segmentation des données
+  - Classement et tri des résultats
+
+**Analyses réalisées :**
+- Calcul du prix moyen des cotisations  
+- Identification des contrats avec les surfaces les plus élevées  
+- Analyse du nombre de contrats par région  
+- Analyse des contrats selon le type de logement  
+- Identification des zones avec forte concentration de contrats  
+
+**Résultats :**
+- Mise en évidence des régions avec le plus grand nombre de contrats  
+- Identification des facteurs influençant le prix des cotisations  
+- Analyse des caractéristiques des logements les plus représentés  
+
+**Conclusion :**
+L’utilisation de SQL permet d’exploiter efficacement une base de données et de transformer les données en informations utiles pour la prise de décision.
+
+📎 [Voir le document technique](lien)
+📎 [Voir les requêtes SQL](lien)
 
 ---
 
