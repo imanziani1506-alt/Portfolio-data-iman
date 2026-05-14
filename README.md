@@ -2,11 +2,26 @@
 </> Markdown
 # Projets
 
-### 1. Analyse et visualisation de données avec Excel
-**Objectif :** Analyser des données et identifier des indicateurs clés  
-**Outils :** Excel (TCD, graphiques)  
-**Résultat :** Création de tableaux de bord pour faciliter la prise de décision  
+## 1. Analyse et visualisation de données NBA avec Excel
 
+**Objectif :** Analyser les performances des joueurs NBA afin d’identifier les indicateurs clés de performance  
+
+**Outils :** Excel (tableaux croisés dynamiques, graphiques, fonctions)  
+
+**Méthodologie :**
+- Analyse des statistiques (points, rebonds, passes, % tirs)
+- Utilisation de fonctions Excel (RECHERCHEV, tri, filtres)
+- Création de tableaux croisés dynamiques
+- Visualisation des données avec graphiques
+- Identification des joueurs les plus performants (Top 15 / Top 3)
+
+**Résultats :**
+- Identification des joueurs les plus performants selon plusieurs indicateurs  
+- Analyse des performances par équipe  
+- Mise en évidence des facteurs clés : scoring, défense, création de jeu  
+
+**Conclusion :**
+Les performances des joueurs NBA reposent sur plusieurs indicateurs combinés. L’analyse des données permet de mieux comprendre les facteurs de performance globale.
 ---
 
 ### 2. Requêtes SQL sur base de données
