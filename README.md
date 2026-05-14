@@ -124,7 +124,8 @@ Construire des indicateurs fiables permettant d’améliorer l’expérience cli
 
 - 📄 [Expression des besoins](lien)
 - 📋 [Liste des questions](lien)
-- 💻 [Requêtes SQL](lien)
-
+- 🗂️ [Dictionnaire de données](lien)
+- 💻 [Requêtes SQL](lien_pdf)
+- 🧠 [Script SQL complet](lien_sql)
 
 👉 Ce projet est actuellement en cours de finalisation.
