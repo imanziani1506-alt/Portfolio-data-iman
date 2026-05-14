@@ -67,6 +67,8 @@ L’utilisation de SQL permet d’exploiter efficacement une base de données et
 - 💻 [Requêtes SQL](./Bouskour_Iman_2_liste_032026.pdf)
 - 📊 [Méthodologie](./Bouskour_Iman_3_méthodologie_032026.ppsx)
 
+  ---
+
   ## 3. Collecte et traitement de données conformes RGPD
 
 **Objectif :** Assurer la conformité d’une base de données CRM au RGPD tout en conservant sa valeur analytique  
