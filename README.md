@@ -100,8 +100,23 @@ Ce projet montre l’importance d’intégrer la protection des données dès la
 )
 - 📑 [Recommandations RGPD](Bouskour_Iman_1_recommandations_042026.pdf
 )
- 
-### 4. Analyse de satisfaction client avec SQL (en cours)
-**Objectif :** Analyser les retours clients  
-**Outils :** SQL  
-**Résultat :** Identification des axes d’amélioration (en cours)
+  ---
+### 🔍 Aperçu du projet (en cours)
+
+Ce projet consiste à analyser les retours clients d’une enseigne afin de mesurer la satisfaction client et identifier des axes d’amélioration.
+
+**Contexte :**
+Les données proviennent d’un service client (notes, produits, magasins, canaux de retour). L’objectif est de transformer ces données en indicateurs clés pour améliorer la qualité du service.
+
+**Analyses en cours :**
+- Calcul du nombre total de retours clients  
+- Analyse des retours par canal (réseaux sociaux, drive, magasin…)  
+- Calcul des notes moyennes par catégorie de produit  
+- Classement des magasins selon la satisfaction client  
+- Identification des magasins en dessous de la moyenne  
+- Calcul du NPS (Net Promoter Score)  
+
+**Objectif final :**
+Construire des indicateurs fiables permettant d’améliorer l’expérience client et la performance du service.
+
+👉 Ce projet est actuellement en cours de finalisation.
