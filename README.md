@@ -120,5 +120,11 @@ Les données proviennent d’un service client (notes, produits, magasins, canau
 
 **Objectif final :**
 Construire des indicateurs fiables permettant d’améliorer l’expérience client et la performance du service.
+📎 **Fichiers du projet :**
+
+- 📄 [Expression des besoins](lien)
+- 📋 [Liste des questions](lien)
+- 💻 [Requêtes SQL](lien)
+
 
 👉 Ce projet est actuellement en cours de finalisation.
