@@ -95,7 +95,24 @@ Ce projet montre l’importance d’intégrer la protection des données dès la
 )
 - 📑 [Recommandations RGPD](Bouskour_Iman_1_recommandations_042026.pdf
 )
-  
+  ### 🔍 Aperçu du projet
+
+Ce projet consiste à traiter et analyser une base de données CRM tout en respectant les exigences du RGPD.
+
+**Étapes principales :**
+- Identification des données personnelles et sensibles (nom, email, numéro de sécurité sociale)
+- Suppression ou anonymisation des données à risque
+- Création d’un identifiant anonyme pour chaque client
+- Extraction des données pertinentes avec SQL
+- Nettoyage et transformation des données avec Power Query
+- Transformation des variables (tranches d’âge, tranches de revenus)
+
+**Résultats :**
+- Données anonymisées et exploitables pour l’analyse
+- Réduction des risques liés à la protection des données
+- Conformité aux principes du RGPD (minimisation, sécurité, finalité)
+
+👉 Ce projet démontre ma capacité à manipuler des données tout en respectant les enjeux réglementaires et éthiques.
 ### 4. Analyse de satisfaction client avec SQL (en cours)
 **Objectif :** Analyser les retours clients  
 **Outils :** SQL  
