@@ -122,9 +122,9 @@ Les données proviennent d’un service client (notes, produits, magasins, canau
 Construire des indicateurs fiables permettant d’améliorer l’expérience client et la performance du service.
 📎 **Fichiers du projet :**
 
-- 📄 [Expression des besoins](lien)
-- 📋 [Liste des questions](lien)
-- 🗂️ [Dictionnaire de données](lien)
+- 📄 [Expression des besoins](Expression_des_besoins.pdf)
+- 📋 [Liste des questions](Liste+des+questions+(1).pdf)
+- 🗂️ [Dictionnaire de données](Dictionnaire_données_BestMarket2.xlsx)
 - 💻 [Requêtes SQL](lien_pdf)
 - 🧠 [Script SQL complet](lien_sql)
 
