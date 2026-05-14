@@ -63,6 +63,36 @@ L’utilisation de SQL permet d’exploiter efficacement une base de données et
  - 📄 [Document technique](./Bouskour_Iman_1_document%20technique_032026.pdf)
 - 💻 [Requêtes SQL](./Bouskour_Iman_2_liste_032026.pdf)
 - 📊 [Méthodologie](./Bouskour_Iman_3_méthodologie_032026.ppsx)
+
+  ## 3. Collecte et traitement de données conformes RGPD
+
+**Objectif :** Assurer la conformité d’une base de données CRM au RGPD tout en conservant sa valeur analytique  
+
+**Outils :** SQL, Excel, Power Query  
+
+**Contexte :**
+Suite à une non-conformité RGPD, une entreprise doit retravailler ses données clients afin de garantir la protection des informations personnelles.
+
+**Méthodologie :**
+- Identification des données personnelles et sensibles  
+- Suppression ou anonymisation des données à risque  
+- Création d’un identifiant anonyme (ROW_NUMBER)  
+- Sélection des variables pertinentes pour l’analyse  
+- Transformation des données (tranches d’âge, revenus, variables simplifiées)  
+- Nettoyage et préparation des données avec Power Query  
+
+**Résultats :**
+- Données anonymisées et exploitables  
+- Réduction des risques de ré-identification  
+- Respect des principes RGPD (minimisation, finalité, sécurité)  
+
+**Conclusion :**
+Ce projet montre l’importance d’intégrer la protection des données dès la phase de traitement tout en permettant leur utilisation à des fins analytiques.
+
+📎 **Fichiers du projet :**
+- 📄 [Rapport complet](lien)
+- 📊 [Jeu de données traité](lien)
+- 📑 [Recommandations RGPD](lien)
   
 ### 4. Analyse de satisfaction client avec SQL (en cours)
 **Objectif :** Analyser les retours clients  
