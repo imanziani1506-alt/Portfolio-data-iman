@@ -58,9 +58,9 @@ Base de données composée de deux tables principales (Contrat et Region) permet
 **Conclusion :**
 L’utilisation de SQL permet d’exploiter efficacement une base de données et de transformer les données en informations utiles pour la prise de décision.
 
-📎 [Voir le document technique](lien)
-📎 [Voir les requêtes SQL](lien)
-
+📎 [Voir le document technique](Bouskour_Iman_1_document technique_032026.pdf)
+📎 [Voir les requêtes SQL](Bouskour_Iman_2_liste_032026.pdf)
+📎 [Voir la méthodologie](Bouskour_Iman_3_méthodologie_032026.ppsx)
 ---
 
 ### 4. Analyse de satisfaction client avec SQL (en cours)
