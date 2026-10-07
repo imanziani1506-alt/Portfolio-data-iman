@@ -153,9 +153,8 @@ Les analyses permettent d’identifier les tendances de satisfaction et les poin
 
 📎 **Fichiers du projet :**
 
-- 🐍 [Notebook Python](./notebook.ipynb)
-- 📑 [Présentation du projet](./Presentation.pptx)
-
+- 🐍 [Notebook Python](./Projet-5-Python-Stock/Bouskour_Iman_1_notebook_082026.ipynb)
+- 📑 [Présentation du projet](./Projet-5-Python-Stock/Bouskour_Iman_2_Présentation_082026.pptx)
 ---
 
 ## 6. Tableau de bord dynamique de suivi de projets avec Power BI
