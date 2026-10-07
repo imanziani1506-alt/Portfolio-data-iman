@@ -182,4 +182,4 @@ Les analyses permettent d’identifier les tendances de satisfaction et les poin
 
 📎 **Fichier du projet :**
 
-- 📊 [Dashboard Power BI](./Projet-6-PowerBI/Dashboard_PowerBI_Projet_6.pbix)
+- 📊 [Dashboard Power BI](./Projet-6-PowerBI/BOUSKOUR_IMAN_1_092026.pbix)
