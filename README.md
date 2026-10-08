@@ -1,4 +1,24 @@
-# Projets
+
+# 👋 Bonjour, je suis Iman Bouskour
+
+🎯 **Business Intelligence Analyst | Recherche d'un stage Data Analyst**
+
+Actuellement en formation **Bac+3/4 Business Intelligence Analyst**, je développe mes compétences en analyse, traitement et visualisation des données.
+
+Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique mes compétences et de contribuer à des projets d’analyse de données.
+
+## 🛠️ Compétences techniques
+
+- 🐍 **Python** : Pandas, Jupyter Notebook
+- 🗄️ **SQL** : requêtes, jointures, agrégations, analyse de données
+- 📊 **Power BI** : Power Query, DAX, dashboards et KPI
+- 📈 **Excel** : tableaux croisés dynamiques, fonctions et graphiques
+- 🔄 **Data preparation** : nettoyage et transformation des données
+- 🔐 **RGPD** : anonymisation et traitement des données
+
+---
+
+# 📂 Projets
 
 ## 1. Analyse et visualisation de données NBA avec Excel
 
