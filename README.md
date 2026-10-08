@@ -20,72 +20,26 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 
 # 📂 Projets
 
-## 1. Analyse et visualisation de données NBA avec Excel
+### 🏀 1. Analyse des performances NBA avec Excel
 
-**Objectif :** Analyser les performances des joueurs NBA afin d’identifier les indicateurs clés de performance.
+**Objectif :** Analyser les performances des joueurs NBA à partir de données statistiques et mettre en évidence différents indicateurs de performance.
 
-**Outils :** Excel (tableaux croisés dynamiques, graphiques, fonctions)
+**Outils :** Excel
 
-**Méthodologie :**
-- Analyse des statistiques (points, rebonds, passes, % tirs)
-- Utilisation de fonctions Excel (RECHERCHEV, tri, filtres)
-- Création de tableaux croisés dynamiques
-- Visualisation des données avec graphiques
-- Identification des joueurs les plus performants (Top 15 / Top 3)
+**Résumé :** Analyse des statistiques des joueurs, création d’indicateurs et réalisation de visualisations permettant de comparer les performances individuelles et collectives.
 
-**Résultats :**
-- Identification des joueurs les plus performants selon plusieurs indicateurs
-- Analyse des performances par équipe
-- Mise en évidence des facteurs clés : scoring, défense et création de jeu
-
-**Conclusion :**
-L’analyse des données permet de mieux comprendre les facteurs qui influencent la performance globale des joueurs.
-
-📎 **Accès au projet :**
-
-- 📊 [Consulter le fichier Excel](./Bouskour%20Iman%201%20rapport%20d'analyse%20022026.xlsx)
-- 📑 [Voir la présentation du projet](./Bouskour_Iman_2_Présentation_022026.pptx)
-
+👉 [Voir le projet complet](./Projet-1-NBA-Excel/)
 ---
 
-## 2. Analyse de données d’assurance habitation avec SQL
+### 🏠 2. Analyse de données d’assurance habitation avec SQL
 
-**Objectif :** Analyser les contrats d’assurance habitation afin d’identifier des tendances et des indicateurs clés pour la prise de décision.
+**Objectif :** Analyser des contrats d’assurance habitation afin d’identifier des tendances et des informations utiles à la prise de décision.
 
-**Outil :** SQL
+**Outils :** SQL
 
-**Contexte :**
-Base de données composée de deux tables principales (Contrat et Region) permettant d’analyser les caractéristiques des logements et leur localisation géographique.
+**Résumé :** Analyse des contrats selon leurs caractéristiques, notamment le type de logement et leur répartition géographique, afin d’identifier les tendances et les facteurs pouvant influencer les résultats.
 
-**Méthodologie :**
-- Création et structuration de la base de données
-- Création des clés primaires et étrangères
-- Jointure des tables Contrat et Region
-- Analyse des données avec des requêtes SQL
-- Calcul d’indicateurs (moyennes, totaux)
-- Segmentation et classement des données
-
-**Analyses réalisées :**
-- Calcul du prix moyen des cotisations
-- Identification des contrats avec les surfaces les plus élevées
-- Analyse du nombre de contrats par région
-- Analyse des contrats selon le type de logement
-- Identification des zones avec une forte concentration de contrats
-
-**Résultats :**
-- Mise en évidence des régions avec le plus grand nombre de contrats
-- Identification des facteurs influençant le prix des cotisations
-- Analyse des caractéristiques des logements les plus représentés
-
-**Conclusion :**
-Ce projet montre comment SQL permet d’exploiter une base de données et de transformer les données en informations utiles à la prise de décision.
-
-📎 **Fichiers du projet :**
-
-- 📄 [Document technique](./Bouskour_Iman_1_document%20technique_032026.pdf)
-- 💻 [Requêtes SQL](./Bouskour_Iman_2_liste_032026.pdf)
-- 📊 [Méthodologie](./Bouskour_Iman_3_méthodologie_032026.ppsx)
-
+👉 [Voir le projet complet](./Projet-2-Assurance-SQL/)
 ---
 
 ### 🔐 3. Collecte et traitement de données conformes au RGPD
