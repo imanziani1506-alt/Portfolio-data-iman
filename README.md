@@ -65,7 +65,7 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 👉 [Voir le projet complet](./Projet-4-BestMarket-SQL/)
 ---
 
-## 5. Nettoyage et analyse des données de stock avec Python
+### 5. Nettoyage et analyse des données de stock avec Python
 
 **Objectif :** Nettoyer et analyser les données de stock d’une boutique afin d’améliorer la qualité des données et d’identifier des informations utiles à la gestion.
 
