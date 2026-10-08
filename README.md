@@ -42,6 +42,17 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 👉 [Voir le projet complet](./Projet-2-Assurance-SQL/)
 ---
 
+### 🔐 3. Collecte et traitement de données conformes au RGPD
+
+**Objectif :** Assurer la conformité d’une base de données CRM au RGPD tout en conservant sa valeur analytique.
+
+**Outils :** SQL, Excel, Power Query
+
+**Résumé :** Identification et traitement des données personnelles et sensibles, anonymisation des données à risque et préparation d’un jeu de données exploitable pour l’analyse.
+
+👉 [Voir le projet complet](./Projet-3-RGPD/)
+---
+
 ### 📊 4. Analyse de la satisfaction client avec SQL
 
 **Objectif :** Analyser les retours clients de BestMarket afin de mesurer la satisfaction et d’identifier des axes d’amélioration.
@@ -51,7 +62,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 **Résumé :** Exploitation d’une base de données relationnelle contenant les retours clients, les produits et les magasins. Analyse des retours, de la satisfaction, des performances des magasins et produits, ainsi que des recommandations et du NPS. :chatgpt-content-reference{index="1"}
 
 👉 **[Voir le projet complet](./Projet-4-BestMarket-SQL/)**
-
 ---
 
 ### 5. Nettoyage et analyse des données de stock avec Python
@@ -63,7 +73,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 **Résumé :** Exploration des données, traitement des valeurs manquantes et incohérentes, identification des valeurs aberrantes et préparation des données pour l’analyse.
 
 👉 [Voir le projet complet](./Projet-5-Python-Stock/)
-
 ---
 
 ## 6. Tableau de bord dynamique de suivi de projets avec Power BI
