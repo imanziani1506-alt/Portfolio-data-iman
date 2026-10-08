@@ -84,6 +84,7 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 **Résumé :** Création d’un dashboard interactif avec des indicateurs de performance, l’analyse des coûts et des délais, ainsi que l’identification des projets en alerte.
 
 👉 **[Voir le projet complet](./Projet-6-PowerBI/)**
-📎 **Fichier du projet :**
+---
 
-- 📊 [Dashboard Power BI](./Projet-6-PowerBI/BOUSKOUR_IMAN_1_092026.pbix)
+
+
