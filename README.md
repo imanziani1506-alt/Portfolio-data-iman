@@ -75,29 +75,15 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 👉 [Voir le projet complet](./Projet-5-Python-Stock/)
 ---
 
-## 6. Tableau de bord dynamique de suivi de projets avec Power BI
+## 📊 6. Tableau de bord dynamique de suivi de projets avec Power BI
 
-**Objectif :** Concevoir un tableau de bord permettant de suivre l’avancement et la performance des projets.
+**Objectif :** Concevoir un tableau de bord interactif pour suivre l’avancement et la performance des projets.
 
 **Outils :** Power BI, Power Query, DAX
 
-**Méthodologie :**
-- Importation et nettoyage des données
-- Transformation des données avec Power Query
-- Création du modèle de données
-- Mise en place des relations entre les tables
-- Création de mesures DAX
-- Création des indicateurs clés de performance (KPI)
-- Analyse des coûts, délais et livraisons
-- Identification des projets en alerte
-- Conception d’un tableau de bord interactif
+**Résumé :** Création d’un dashboard interactif avec des indicateurs de performance, l’analyse des coûts et des délais, ainsi que l’identification des projets en alerte.
 
-**Résultats :**
-- Suivi de la performance des projets
-- Identification des projets présentant des écarts
-- Analyse des coûts et des délais
-- Visualisation des indicateurs clés dans un tableau de bord interactif
-
+👉 **[Voir le projet complet](./Projet-6-PowerBI/)**
 📎 **Fichier du projet :**
 
 - 📊 [Dashboard Power BI](./Projet-6-PowerBI/BOUSKOUR_IMAN_1_092026.pbix)
