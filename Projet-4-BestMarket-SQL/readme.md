@@ -93,33 +93,11 @@ Ce projet permet de :
 - Identifier les profils de clients satisfaits et insatisfaits
 - Produire des informations utiles à la prise de décision
 
-## 📸 Aperçu du projet
-
-![Capture 1](./Images/1.png)
-
-![Capture 2](./Images/2.png)
-
-![Capture 3](./Images/3.png)
-
-![Capture 4](./Images/4.png)
-
-![Capture 5](./Images/5.png)
-
-![Capture 6](./Images/6.png)
-
-![Capture 7](./Images/7.png)
-
-![Capture 8](./Images/8.png)
-
-![Capture 9](./Images/9.png)
-
-![Capture 10](./Images/10.png)
 
 ## 📁 Fichiers du projet
 
 - 📄 [Rapport du projet](./Bouskour_Iman_1_expression_besoin_052026.pdf)
 - 📄 [Présentation du projet](./Bouskour_Iman_2_presentation_052026.pdf)
-- 📁 [Toutes les captures](./Images/)
 
 ## 💡 Conclusion
 
