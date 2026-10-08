@@ -77,18 +77,6 @@ Le projet applique notamment les principes de :
 - Limitation de la conservation
 - Sécurité et transparence :chatgpt-content-reference{index="8"}
 
-## 📸 Aperçu du projet
-
-![Capture 1](./Images/1_.png)
-![Capture 2](./Images/2_.png)
-![Capture 3](./Images/3_.png)
-![Capture 4](./Images/4_.png)
-![Capture 5](./Images/5_.png)
-![Capture 6](./Images/6_.png)
-![Capture 7](./Images/7_.png)
-![Capture 8](./Images/8_.png)
-![Capture 9](./Images/9_.png)
-![Capture 10](./Images/10_.png)
 
 ## 📁 Fichiers du projet
 
