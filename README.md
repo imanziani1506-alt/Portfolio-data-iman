@@ -50,7 +50,7 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 
 **Résumé :** Exploitation d’une base de données relationnelle contenant les retours clients, les produits et les magasins. Analyse des retours, de la satisfaction, des performances des magasins et produits, ainsi que des recommandations et du NPS. :chatgpt-content-reference{index="1"}
 
-👉 [Voir le projet complet](./Projet-4-BestMarket-SQL/)
+👉 **[Voir le projet complet](./Projet-4-BestMarket-SQL/)**
 
 ---
 
