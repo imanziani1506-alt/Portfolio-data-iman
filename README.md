@@ -54,34 +54,15 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 
 ---
 
-## 4. Analyse de la satisfaction client avec SQL
+### 📊 4. Analyse de la satisfaction client avec SQL
 
-**Objectif :** Analyser les retours clients afin de mesurer la satisfaction et d’identifier des axes d’amélioration.
+**Objectif :** Analyser les retours clients de BestMarket afin de mesurer la satisfaction et d’identifier des axes d’amélioration.
 
-**Outil :** SQL
+**Outils :** SQL, MySQL
 
-**Contexte :**
-Les données proviennent d’un service client et contiennent notamment des informations sur les notes, les produits, les magasins et les canaux de retour.
+**Résumé :** Exploitation d’une base de données relationnelle contenant les retours clients, les produits et les magasins. Analyse des retours, de la satisfaction, des performances des magasins et produits, ainsi que des recommandations et du NPS. :chatgpt-content-reference{index="1"}
 
-**Analyses réalisées :**
-- Calcul du nombre total de retours clients
-- Analyse des retours par canal
-- Calcul des notes moyennes par catégorie de produit
-- Classement des magasins selon la satisfaction client
-- Identification des magasins en dessous de la moyenne
-- Calcul du NPS (Net Promoter Score)
-
-**Résultats :**
-Les analyses permettent d’identifier les tendances de satisfaction et les points d’amélioration afin d’aider à la prise de décision.
-
-📎 **Fichiers du projet :**
-
-- 📄 [Expression des besoins](./Expression_des_besoins.pdf)
-- 📋 [Liste des questions](./Liste+des+questions+(1).pdf)
-- 🗂️ [Dictionnaire de données](./Dictionnaire_données_BestMarket2.xlsx)
-- 💻 [Requêtes SQL](./Requêtes.pdf)
-- 🧠 [Script SQL complet](./CustomerDataFeedback+(3).sql)
-
+👉 [Voir le projet complet](./Projet-4-BestMarket-SQL/)
 ---
 
 ## 5. Nettoyage et analyse des données de stock avec Python
