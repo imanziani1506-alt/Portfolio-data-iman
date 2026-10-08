@@ -23,7 +23,7 @@ L’objectif est d’exploiter ces données afin d’analyser les caractéristiq
 - Utilisation de requêtes SQL pour analyser les données
 - Calcul d’indicateurs statistiques
 - Segmentation, classement et tri des résultats
-
+  
 ## 📈 Analyses réalisées
 
 - Calcul du prix moyen des cotisations
@@ -32,6 +32,8 @@ L’objectif est d’exploiter ces données afin d’analyser les caractéristiq
 - Analyse des contrats selon le type de logement
 - Identification des zones présentant une forte concentration de contrats
 
+
+
 ## 💡 Résultats
 
 - Mise en évidence des régions avec le plus grand nombre de contrats
@@ -39,23 +41,17 @@ L’objectif est d’exploiter ces données afin d’analyser les caractéristiq
 - Analyse des caractéristiques des logements les plus représentés
 - Production d’informations utiles à l’analyse et à la prise de décision
 
-## 📸 Aperçu du projet
 
-### Analyse des données
-
-![Analyse 1](./Images/1.png)
-
-### Résultats SQL
-
-![Analyse 2](./Images/2.png)
-
-### Analyse des contrats
-
-![Analyse 3](./Images/3.png)
-
-### Analyse géographique
-
-![Analyse 4](./Images/4.png)
+(./Images/1.png)
+(./Images/2.png)
+(./Images/3.png)
+(./Images/4.png)
+(./Images/5.png)
+(./Images/6.png)
+(./Images/7.png)
+(./Images/8.png)
+(./Images/9.png)
+(./Images/10.png)
 
 ## 📁 Fichiers du projet
 
