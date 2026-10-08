@@ -42,14 +42,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 👉 [Voir le projet complet](./Projet-2-Assurance-SQL/)
 ---
 
-### 🔐 3. Collecte et traitement de données conformes au RGPD
-
-**Objectif :** Assurer la conformité d’une base de données CRM au RGPD tout en conservant sa valeur analytique.
-
-**Outils :** SQL, Excel, Power Query
-
-**Résumé :** Identification et traitement des données personnelles et sensibles, anonymisation des données à risque et préparation d’un jeu de données exploitable pour l’analyse.
-
 👉 [Voir le projet complet](./Projet-3-RGPD/)
 
 ---
