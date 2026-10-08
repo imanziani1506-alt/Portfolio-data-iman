@@ -42,10 +42,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 👉 [Voir le projet complet](./Projet-2-Assurance-SQL/)
 ---
 
-👉 [Voir le projet complet](./Projet-3-RGPD/)
-
----
-
 ### 📊 4. Analyse de la satisfaction client avec SQL
 
 **Objectif :** Analyser les retours clients de BestMarket afin de mesurer la satisfaction et d’identifier des axes d’amélioration.
@@ -56,7 +52,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 
 👉 [Voir le projet complet](./Projet-4-BestMarket-SQL/)
 
----
 
 ### 5. Nettoyage et analyse des données de stock avec Python
 
@@ -68,7 +63,6 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 
 👉 [Voir le projet complet](./Projet-5-Python-Stock/)
 
----
 
 ## 6. Tableau de bord dynamique de suivi de projets avec Power BI
 
