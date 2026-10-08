@@ -39,7 +39,7 @@ Le dashboard permet notamment de :
 
 ### Informations et indicateurs
 
-![Informations](./Images/Info-bulles.png)
+![Info_bulles](./Images/Info-bulles.png)
 
 ### Mise à jour
 
