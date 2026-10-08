@@ -63,32 +63,19 @@ Je recherche actuellement un **stage Data Analyst** afin de mettre en pratique m
 **Résumé :** Exploitation d’une base de données relationnelle contenant les retours clients, les produits et les magasins. Analyse des retours, de la satisfaction, des performances des magasins et produits, ainsi que des recommandations et du NPS. :chatgpt-content-reference{index="1"}
 
 👉 [Voir le projet complet](./Projet-4-BestMarket-SQL/)
+
 ---
 
 ### 5. Nettoyage et analyse des données de stock avec Python
 
-**Objectif :** Nettoyer et analyser les données de stock d’une boutique afin d’améliorer la qualité des données et d’identifier des informations utiles à la gestion.
+**Objectif :** Explorer et nettoyer un jeu de données afin d’identifier les anomalies et d’améliorer la qualité des données.
 
 **Outils :** Python, Pandas, Jupyter Notebook
 
-**Méthodologie :**
-- Importation et exploration des données
-- Vérification de la qualité des données
-- Identification et traitement des valeurs manquantes
-- Détection et traitement des valeurs aberrantes
-- Nettoyage des données
-- Analyse statistique et exploratoire
-- Visualisation des résultats
+**Résumé :** Exploration des données, traitement des valeurs manquantes et incohérentes, identification des valeurs aberrantes et préparation des données pour l’analyse.
 
-**Résultats :**
-- Amélioration de la qualité des données
-- Identification des anomalies dans les données de stock
-- Production d’analyses permettant de mieux comprendre les données
+👉 [Voir le projet complet](./Projet-5-Python-Stock/)
 
-📎 **Fichiers du projet :**
-
-- 🐍 [Notebook Python](./Projet-5-Python-Stock/Bouskour_Iman_1_notebook_082026.ipynb)
-- 📑 [Presentation du projet](./Projet-5-Python-Stock/Bouskour_Iman_2_Presentation_082026.pptx)
 ---
 
 ## 6. Tableau de bord dynamique de suivi de projets avec Power BI
