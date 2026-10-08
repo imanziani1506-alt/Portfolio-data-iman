@@ -88,36 +88,15 @@ Ce projet montre comment SQL permet d’exploiter une base de données et de tra
 
 ---
 
-## 3. Collecte et traitement de données conformes au RGPD
+### 🔐 3. Collecte et traitement de données conformes au RGPD
 
 **Objectif :** Assurer la conformité d’une base de données CRM au RGPD tout en conservant sa valeur analytique.
 
 **Outils :** SQL, Excel, Power Query
 
-**Contexte :**
-Suite à une non-conformité RGPD, une entreprise doit retravailler ses données clients afin de garantir la protection des informations personnelles.
+**Résumé :** Identification et traitement des données personnelles et sensibles, anonymisation des données à risque et préparation d’un jeu de données exploitable pour l’analyse.
 
-**Méthodologie :**
-- Identification des données personnelles et sensibles
-- Suppression ou anonymisation des données à risque
-- Création d’un identifiant anonyme
-- Sélection des variables pertinentes pour l’analyse
-- Transformation des données
-- Nettoyage et préparation des données avec Power Query
-
-**Résultats :**
-- Données anonymisées et exploitables
-- Réduction des risques de ré-identification
-- Application des principes RGPD : minimisation, finalité et sécurité
-
-**Conclusion :**
-Ce projet montre l’importance d’intégrer la protection des données dès la phase de traitement tout en permettant leur utilisation à des fins analytiques.
-
-📎 **Fichiers du projet :**
-
-- 📄 [Rapport complet](./Bouskour_Iman_3_rapport_042026.pdf)
-- 📊 [Jeu de données traité](./Bouskour_Iman_2_donnees_042026.csv)
-- 📑 [Recommandations RGPD](./Bouskour_Iman_1_recommandations_042026.pdf)
+👉 [Voir le projet complet](./Projet-3-RGPD/)
 
 ---
 
