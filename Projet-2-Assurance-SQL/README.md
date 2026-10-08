@@ -42,16 +42,27 @@ L’objectif est d’exploiter ces données afin d’analyser les caractéristiq
 - Production d’informations utiles à l’analyse et à la prise de décision
 
 
-(./Images/1.png)
-(./Images/2.png)
-(./Images/3.png)
-(./Images/4.png)
-(./Images/5.png)
-(./Images/6.png)
-(./Images/7.png)
-(./Images/8.png)
-(./Images/9.png)
-(./Images/10.png)
+## 📸 Aperçu du projet
+
+![](./Images/1.png)
+
+![](./Images/2.png)
+
+![](./Images/3.png)
+
+![](./Images/4.png)
+
+![](./Images/5.png)
+
+![](./Images/6.png)
+
+![](./Images/7.png)
+
+![](./Images/8.png)
+
+![](./Images/9.png)
+
+![](./Images/10.png)
 
 ## 📁 Fichiers du projet
 
